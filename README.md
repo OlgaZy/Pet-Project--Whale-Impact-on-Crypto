@@ -29,13 +29,7 @@ Visualize weekly seasonality, price correlation, and the market share driven by 
 
 ## Tech Stack
 
-Python	Core programming languag 
-Pandas	Time series aggregation & processing
-Plotly	Interactive visualization (dual-axis, bar, scatter, boxplot)
-Matplotlib	Support for subplots and histograms
-Seaborn	Correlation heatmap analysis
-Google Colab	Cloud-based analytics environment
-Santiment API	Source of on-chain metrics for BTC & ETH
+Python, Pandas, Plotly, Matplotlib, Seaborn, Santiment API (source of on-chain metrics for BTC & ETH).
 
 ## Key Analytical Questions 
 
